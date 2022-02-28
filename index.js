@@ -10,7 +10,7 @@ const getUser = async (param = 'sureshalagarsamy') => {
   }
 };
 
-// getRepos().then((repositories) => console.log(repositories));
+// getUser().then((repositories) => console.log(repositories));
 
 module.exports = {
     getUser
